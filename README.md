@@ -1,3 +1,3 @@
 # ArkaTest5
 
-### Nomer satu menggunakkan java 
+##### Jawaban nomer satu saya buat dengan jjava untuk mereturn menjadi JSON, Silahkan dicompile lwat cmd atau IDE Java
