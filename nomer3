@@ -1,0 +1,22 @@
+public static void main(String args[]) {
+    int vokal=0, kon=0;
+    String nulis="arkademy";
+
+    nulis=nulis.toLowerCase();
+
+    int l=nulis.lenght();
+
+    for (int i = 0; i < l; i++)
+    {
+        char c=nulis.charAt(i);
+        if (c=='a'||c=='i'||c=='u'||c=='e'||c=='o') 
+        {
+            vokal++;
+        }
+        else
+        {
+            kon++;
+        }
+    }
+    System.out.println("Vokal :"+vokal);
+}
