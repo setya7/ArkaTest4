@@ -1,5 +1,6 @@
 ### Menggunakan REGEX 
----
+
+        ---
 const patterns = {
         telephone: /^\d{11}$/,
         slug: /^[a-z0-9-]+$/,
@@ -17,4 +18,4 @@ function validate(field, regex){
     } else {
         field.className = 'invalid';
     }
-    ---
+        ---
