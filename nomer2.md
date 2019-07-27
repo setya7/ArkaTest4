@@ -11,7 +11,7 @@
         };
         ---
 
-// validation function
+// validation function//
         ---
         function validate(field, regex){
 
