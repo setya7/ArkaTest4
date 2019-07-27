@@ -10,8 +10,10 @@
         //             yourname @ domain   .  com          ( .uk )
         };
         ---
+        ---
 
 // validation function//
+        ---
         ---
         function validate(field, regex){
 
