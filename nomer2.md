@@ -12,6 +12,7 @@
         ---
 
 // validation function
+        ---
         function validate(field, regex){
 
     if(regex.test(field.value)){
